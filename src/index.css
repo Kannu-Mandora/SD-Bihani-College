@@ -2,12 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import "./styles/sm-screen.css";
-@import "./styles/tab-screen.css";
-@import "./styles/pc-screen.css";
-@import "./styles/desktop-screen.css";
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@300;400&display=swap');
-
 @layer utilities{
     
     .flexDirectionRow{

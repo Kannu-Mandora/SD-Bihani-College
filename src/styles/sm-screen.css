@@ -1,1 +1,8 @@
-@media screen and (min-width:640px) and (max-width:767px){}
+@media screen and (min-width:0px) and (max-width:767px){
+    .Navbar{
+        display: none;
+    }
+    .SNavbar{
+        display: flex;
+    }
+}
